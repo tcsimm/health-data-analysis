@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+venv/
+ENV/
+
+# Tableau files
+*.twb
+*.twbx
