@@ -6,13 +6,13 @@ This project explores adult health outcomes across demographics in the United St
 
 Project Structure
 health-data-analysis/
-  ├── data/ # Raw and cleaned datasets (CSV) 
- ├── dashboards/ # Tableau dashboard PNGs and workbook
- ├── notebooks/ # Jupyter Notebooks for cleaning, EDA, SQL 
- ├── visualizations/ # PNGs of Python-generated charts
- ├── readme.md
- ├── .gitignore
- └── health.db # SQLite database (created via sql_queries notebook)
+-  data/ # Raw and cleaned datasets (CSV) 
+- dashboards/ # Tableau dashboard PNGs and workbook
+- notebooks/ # Jupyter Notebooks for cleaning, EDA, SQL 
+- visualizations/ # PNGs of Python-generated charts
+- readme.md
+- .gitignore
+- health.db # SQLite database (created via sql_queries notebook)
 
 ## Key Features
 
